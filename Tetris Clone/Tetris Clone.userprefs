@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.AttachToProcess" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/Scripts/Grid.cs">
+    <Files>
+      <File FileName="Assets/Resources/Scripts/Spawner.cs" Line="10" Column="40" />
+      <File FileName="Assets/Resources/Scripts/GameManager.cs" Line="22" Column="49" />
+      <File FileName="Assets/Resources/Scripts/Letters/LetterGenerator.cs" Line="78" Column="1" />
+      <File FileName="Assets/Resources/Scripts/Group.cs" Line="33" Column="20" />
+      <File FileName="Assets/Resources/Scripts/Grid.cs" Line="21" Column="2" />
+      <File FileName="Assets/Resources/Scripts/Letters/Letter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Scripts/ExtensionMethods/EnumerableExtensions.cs" Line="1" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/andrewnowotarski/Desktop/Tetris Clone/Assets/Resources/Scripts/Group.cs" line="62" column="1" />
+      <Breakpoint file="/Users/andrewnowotarski/Desktop/Tetris Clone/Assets/Resources/Scripts/Group.cs" line="75" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
